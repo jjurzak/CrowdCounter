@@ -1,0 +1,11 @@
+
+path: F:\Programy\CrowdCounter\data
+train: images
+val: images
+device: 0
+
+nc: 1
+
+names:
+  0: people
+
